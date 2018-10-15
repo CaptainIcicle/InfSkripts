@@ -1,0 +1,17 @@
+# Coded by: CaptainIcicle
+
+# Version 1.0
+
+##########################
+#        Warning         #
+##########################
+
+command: /stop
+	trigger
+	
+command: /restart
+	trigger
+	
+command: /reload
+	trigger
+	
