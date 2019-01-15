@@ -1,0 +1,8 @@
+#!/usr/python
+
+import keyboard #imports the keyboard module
+
+while True:
+  Try: 
+    if keyboard.is_pressed('I need to identify the key still')
+    
