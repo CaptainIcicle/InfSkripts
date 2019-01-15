@@ -1,8 +1,15 @@
 #!/usr/python
 
 import keyboard #imports the keyboard module
+import random
 
 while True:
   Try: 
     if keyboard.is_pressed('I need to identify the key still')
-    
+    for x in range(1):
+      print random.randint(1,60)
+      break
+      else:
+        pass
+    except:
+   break
